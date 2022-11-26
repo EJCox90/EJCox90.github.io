@@ -1,3 +1,4 @@
+Using myenjoyment of pokemon to practice coding to get better at it.
 <!DOCTYPE html>
 <html lang = "en">
 <head>
