@@ -1,4 +1,4 @@
-Using myenjoyment of pokemon to practice coding to get better at it.
+Using my enjoyment of pokemon to practice coding to get better at it.
 <html lang = "en">
 <head>
 <meta charset = "UTF-8">
