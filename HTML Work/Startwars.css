@@ -1,0 +1,13 @@
+h1, span {
+	background:#4ce74c;
+	font-size: 200%;
+	text-align:center;
+	background-position: center;
+	display:inline-block;
+
+}
+ol, span {
+	color: white;
+	background-color:black;
+	display: inline-block;
+}
